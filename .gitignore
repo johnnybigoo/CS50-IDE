@@ -4,3 +4,5 @@
 .gitconfig
 .c9
 .npm/
+.cache/
+.local/
